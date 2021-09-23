@@ -1,0 +1,10 @@
+{
+  "productId": 35455,
+  "brandId": 1,
+  "rate": {
+    "amount": 30.5,
+    "currency": "EUR"
+  },
+  "startDate": "2020-06-15T00:00:00",
+  "endDate": "2020-06-15T11:00:00"
+}
